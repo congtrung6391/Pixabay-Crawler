@@ -1,2 +1,2 @@
 # Pixabay-Crawler
-Crawl images from Piaxbay.com
+Crawl images from Piaxbay.com 
